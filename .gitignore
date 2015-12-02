@@ -21,6 +21,9 @@ gamemodes/maps/
 gamemode.sublime-project
 gamemode.sublime-workspace
 
-# all executables except for compiler
+# all executables except for few
 **.exe
+!announce.exe
+!samp-npc.exe
+!samp-server.exe
 !pawno/**.exe
