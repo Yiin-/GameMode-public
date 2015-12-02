@@ -1,0 +1,26 @@
+# logs
+server_log.txt
+mysql_log.txt
+crashinfo.txt
+
+# compiled
+gamemodes/gamemode.amx
+
+# mysql settings
+mysql.ini
+mysql_host.ini
+
+# big binary files
+scriptfiles/SAfull.hmap
+scriptfiles/colandreas/ColAndreas.cadb
+
+# maps
+gamemodes/maps/
+
+# sublime text project files
+gamemode.sublime-project
+gamemode.sublime-workspace
+
+# all executables except for compiler
+**.exe
+!pawno/**.exe
